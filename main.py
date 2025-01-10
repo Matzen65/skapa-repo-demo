@@ -1,13 +1,10 @@
-# This is a sample Python script.
+# Veckouppgift 1, 8 januari
+# Skapa projekt och synka med Github
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+name = input("Skriv in ditt namn")
+print("Hello world")
+print("This program was made by " + name)
 
-print(" detta är ändringen")
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
